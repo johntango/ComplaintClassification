@@ -1,4 +1,6 @@
-Exercise: Customer Complaint Categorization
+Exercise: This is some background information 
+
+Customer Complaint Categorization
 
 Context:
 
